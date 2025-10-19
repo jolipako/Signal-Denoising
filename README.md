@@ -38,7 +38,7 @@ Signal-Denoising/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/Signal-Denoising.git
+git clone https://github.com/jolipako/Signal-Denoising.git
 cd Signal-Denoising
 ```
 
